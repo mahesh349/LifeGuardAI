@@ -1,3 +1,4 @@
+# Project Name - LifeGuardAI
 # Project Description - Enriching End of Life Care with Technology
 
 # Feature Overview
@@ -88,12 +89,12 @@ Now if you didn't change any of the configurations mentioned above or the Port, 
 
 ## The Team
 
+- [Mahesh Pisharody](https://github.com/mahesh349)
 - [Yash Bharambay](https://github.com/YashBharambay)
 - [Ridham Patel](https://github.com/ridhampatel14/)
 - [Dhruv Parikh](https://github.com/DhruvDRE)
 - [Vaishnavi Nayak](https://github.com/Vaishnavi-Nayak28)
 - [Keshav Mishra](https://github.com/kmishra6)
-- [Mahesh Pisharody](https://github.com/mahesh349)
 
 ```
 
