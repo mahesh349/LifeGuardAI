@@ -1,0 +1,50 @@
+/* ContactUsPage.css */
+
+.contact-us-container {
+	display: flex;
+	justify-content: space-around;
+	padding: 20px;
+}
+
+.contact-form-container {
+	width: 40%;
+}
+
+.form-group {
+	margin-bottom: 15px;
+}
+
+label {
+	display: block;
+	margin-bottom: 5px;
+	color: #3498db; /* Blue color */
+}
+
+input,
+textarea {
+	width: 100%;
+	padding: 8px;
+	box-sizing: border-box;
+}
+
+button {
+	background-color: #3498db;
+	color: #fff;
+	padding: 10px 20px;
+	border: none;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #2980b9; /* Slightly darker blue on hover */
+}
+
+.company-info-container {
+	width: 30%;
+}
+
+.map-container {
+	width: 25%;
+}
+
+/* Add any additional styling as needed */
