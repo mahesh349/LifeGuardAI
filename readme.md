@@ -20,7 +20,7 @@
 The **Chatbot** serves two primary purposes:
 - In situations where family members or healthcare staff are unavailable, the chatbot steps in.
 
-Purposes:
+### Purposes:
 • Providing timely updates on the patient's vitals, making it more convenient for the doctor. Regular questions will be posed by the chatbot to the patient, whose responses will be used, via ML, to generate a conclusion on their health status. The frontend developers will then convert this into a dashboard for the doctor's access through the web application.
 
 • Assisting the patient in communicating requests to the staff if they are inaccessible, such as needing to use the restroom or requesting water.
